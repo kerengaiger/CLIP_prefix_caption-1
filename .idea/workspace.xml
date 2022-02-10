@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a415713-6726-4f73-a813-88033a52fffd" name="Default Changelist" comment="">
+    <list default="true" id="7a415713-6726-4f73-a813-88033a52fffd" name="Default Changelist" comment="changes to notebook and files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/COCO_val2014_000000060623.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/COCO_val2014_000000165547.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/COCO_val2014_000000354533.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/COCO_val2014_000000386164.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/COCO_val2014_000000562207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/COCO_val2014_000000579664.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/CONCEPTUAL_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/CONCEPTUAL_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/CONCEPTUAL_03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/CONCEPTUAL_04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/CONCEPTUAL_05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/CONCEPTUAL_06.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/clip_prefix_captioning_inference.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/clip_prefix_captioning_inference.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +105,14 @@
       <workItem from="1631795514442" duration="3308000" />
       <workItem from="1632492645974" duration="907000" />
     </task>
+    <task id="LOCAL-00001" summary="changes to notebook and files">
+      <created>1644508179100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644508179100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -163,6 +159,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes to notebook and files" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to notebook and files" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/parse_coco.py">
