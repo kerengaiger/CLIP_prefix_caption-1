@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a415713-6726-4f73-a813-88033a52fffd" name="Default Changelist" comment="new notebook">
-      <change afterPath="$PROJECT_DIR$/notebooks/clip_style_detection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/style_detection.ipynb" beforeDir="false" />
+    <list default="true" id="7a415713-6726-4f73-a813-88033a52fffd" name="Default Changelist" comment="changes in notebook">
+      <change afterPath="$PROJECT_DIR$/notebooks/clip_prefix_captioning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/clip_style_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/clip_style_detection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645716315122</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new notebook and delete the old one">
+      <created>1645716709780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645716709781</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changes in notebook">
+      <created>1645716794001</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645716794001</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -230,7 +243,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes to notebook and files" />
     <MESSAGE value="new notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="new notebook" />
+    <MESSAGE value="new notebook and delete the old one" />
+    <MESSAGE value="changes in notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in notebook" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/parse_coco.py">
