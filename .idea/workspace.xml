@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a415713-6726-4f73-a813-88033a52fffd" name="Default Changelist" comment="changes to notebook and files">
-      <change afterPath="$PROJECT_DIR$/notebooks/style_detection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/clip_prefix_captioning_inference.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/clip_prefix_captioning_inference.ipynb" afterDir="false" />
+    <list default="true" id="7a415713-6726-4f73-a813-88033a52fffd" name="Default Changelist" comment="new notebook">
+      <change beforePath="$PROJECT_DIR$/notebooks/style_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/style_detection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645452783608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new notebook">
+      <created>1645714740458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645714740458</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -214,7 +219,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes to notebook and files" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes to notebook and files" />
+    <MESSAGE value="new notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="new notebook" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/parse_coco.py">
