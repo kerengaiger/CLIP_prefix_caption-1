@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a415713-6726-4f73-a813-88033a52fffd" name="Default Changelist" comment="changes in notebook">
-      <change afterPath="$PROJECT_DIR$/notebooks/clip_prefix_captioning.py" afterDir="false" />
+    <list default="true" id="7a415713-6726-4f73-a813-88033a52fffd" name="Default Changelist" comment="add clip_prefix_captioning">
+      <change afterPath="$PROJECT_DIR$/notebooks/sanity_checks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/clip_style_detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/clip_style_detection.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645716794001</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add clip_prefix_captioning">
+      <created>1645722362309</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645722362310</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -245,7 +253,8 @@
     <MESSAGE value="new notebook" />
     <MESSAGE value="new notebook and delete the old one" />
     <MESSAGE value="changes in notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in notebook" />
+    <MESSAGE value="add clip_prefix_captioning" />
+    <option name="LAST_COMMIT_MESSAGE" value="add clip_prefix_captioning" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/parse_coco.py">
